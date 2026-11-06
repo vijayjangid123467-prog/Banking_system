@@ -35,16 +35,16 @@ Enter your choice in number: 1
 Balance = 5000.0
 
 📚 Python Concepts Used
-Variables
-Data Types (int, float)
-User Input (input())
-Conditional Statements (if, elif, else)
-Loops (for / while)
-Arithmetic Operators (+, -)
-Type Conversion
+1.Variables
+2.Data Types (int, float)
+3.User Input (input())
+4.Conditional Statements (if, elif, else)
+5.Loops (for / while)
+6.Arithmetic Operators (+, -)
+7.Type Conversion
 🎯 Purpose of the Project
 
-The main purpose of this project is to practice basic Python programming concepts by creating a simple banking application.
+>The main purpose of this project is to practice basic Python programming concepts by creating a simple banking application.
 
 👨‍💻 Author
 
